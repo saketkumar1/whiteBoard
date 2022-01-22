@@ -8,7 +8,7 @@ Added realtime drawing functionality using Socket.io by connecting to server usi
 #### Adding notes and uploading image:
 Using green button, we can minimise the notes and by clicking red button, notes can be closed. Similarly for uploading images. <br>
 
-![Screenshot (185)]()
+![Screenshot (185)](https://user-images.githubusercontent.com/66872047/150637298-ecb28e9b-0c19-4efb-90c3-35b3def4d122.png)
 
 #### Realtime drawing:
 Realtime drawing can be achieved by the people using same link at same time.
