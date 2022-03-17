@@ -33,15 +33,5 @@ This real-time whiteboard provides the user with following features:
 - Zoom in or zoom out the drawing content.
 - Real-time virtual environment for drawing and erasing.
 
-### Run on your local machine:
-```
-npm init
-```
-Press Enter. Then,
-```
-npm install socket.io
-npm install --save-dev nodemon
-node app.js
-```
-Now open the browser and type `localhost:3000`.
+
 
